@@ -1,0 +1,34 @@
+C:\Users\taclarke\Documents\Visual Studio 2015\Projects\DrawingApp\DrawingApp\bin\Debug\DrawingApp.exe.config
+C:\Users\taclarke\Documents\Visual Studio 2015\Projects\DrawingApp\DrawingApp\bin\Debug\DrawingApp.exe
+C:\Users\taclarke\Documents\Visual Studio 2015\Projects\DrawingApp\DrawingApp\bin\Debug\DrawingApp.pdb
+C:\Users\taclarke\Documents\Visual Studio 2015\Projects\DrawingApp\DrawingApp\bin\Debug\DrawingApp.xml
+C:\Users\taclarke\Documents\Visual Studio 2015\Projects\DrawingApp\DrawingApp\obj\Debug\DrawingApp.vbprojResolveAssemblyReference.cache
+C:\Users\taclarke\Documents\Visual Studio 2015\Projects\DrawingApp\DrawingApp\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\taclarke\Documents\Visual Studio 2015\Projects\DrawingApp\DrawingApp\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\taclarke\Documents\Visual Studio 2015\Projects\DrawingApp\DrawingApp\obj\Debug\DrawingApp.vbproj.GenerateResource.Cache
+C:\Users\taclarke\Documents\Visual Studio 2015\Projects\DrawingApp\DrawingApp\obj\Debug\DrawingApp.exe
+C:\Users\taclarke\Documents\Visual Studio 2015\Projects\DrawingApp\DrawingApp\obj\Debug\DrawingApp.xml
+C:\Users\taclarke\Documents\Visual Studio 2015\Projects\DrawingApp\DrawingApp\obj\Debug\DrawingApp.pdb
+C:\Users\taclarke\Desktop\DrawingApp\bin\Debug\DrawingApp.exe.config
+C:\Users\taclarke\Desktop\DrawingApp\bin\Debug\DrawingApp.exe
+C:\Users\taclarke\Desktop\DrawingApp\bin\Debug\DrawingApp.pdb
+C:\Users\taclarke\Desktop\DrawingApp\bin\Debug\DrawingApp.xml
+C:\Users\taclarke\Desktop\DrawingApp\obj\Debug\DrawingApp.vbprojAssemblyReference.cache
+C:\Users\taclarke\Desktop\DrawingApp\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\taclarke\Desktop\DrawingApp\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\taclarke\Desktop\DrawingApp\obj\Debug\DrawingApp.vbproj.GenerateResource.cache
+C:\Users\taclarke\Desktop\DrawingApp\obj\Debug\DrawingApp.exe
+C:\Users\taclarke\Desktop\DrawingApp\obj\Debug\DrawingApp.xml
+C:\Users\taclarke\Desktop\DrawingApp\obj\Debug\DrawingApp.pdb
+C:\Users\cjbre530\Desktop\DrawingApp\bin\Debug\DrawingApp.exe.config
+C:\Users\cjbre530\Desktop\DrawingApp\bin\Debug\DrawingApp.exe
+C:\Users\cjbre530\Desktop\DrawingApp\bin\Debug\DrawingApp.pdb
+C:\Users\cjbre530\Desktop\DrawingApp\bin\Debug\DrawingApp.xml
+C:\Users\cjbre530\Desktop\DrawingApp\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\cjbre530\Desktop\DrawingApp\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\cjbre530\Desktop\DrawingApp\obj\Debug\DrawingApp.vbproj.GenerateResource.cache
+C:\Users\cjbre530\Desktop\DrawingApp\obj\Debug\DrawingApp.exe
+C:\Users\cjbre530\Desktop\DrawingApp\obj\Debug\DrawingApp.xml
+C:\Users\cjbre530\Desktop\DrawingApp\obj\Debug\DrawingApp.pdb
+C:\Users\cjbre530\Desktop\DrawingApp\obj\Debug\WindowsApplication1.SplashScreen1.resources
+C:\Users\cjbre530\Desktop\DrawingApp\obj\Debug\DrawingApp.vbprojAssemblyReference.cache
